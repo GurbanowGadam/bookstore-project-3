@@ -1,0 +1,4 @@
+type,value,description
+none,0,No discount
+percentage,10,Student discount
+fixed,20,Coupon discount

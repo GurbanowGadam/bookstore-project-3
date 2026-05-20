@@ -1,0 +1,7 @@
+type,title,author,basePrice,stock,extra1,extra2
+printed,The Hobbit,J.R.R. Tolkien,50,10,310,0.8
+ebook,Clean Code,Robert Martin,80,5,pdf,4.5
+audio,Atomic Habits,James Clear,60,4,320,James Clear
+printed,1984,George Orwell,45,7,328,0.6
+ebook,Design Patterns,Erich Gamma,100,3,pdf,6.2
+audio,Deep Work,Cal Newport,70,4,360,Cal Newport
