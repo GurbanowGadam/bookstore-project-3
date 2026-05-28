@@ -9,7 +9,7 @@ int main() {
     try {
         std::cout << "Bookstore Project 3 Demo\n";
 
-        Bookstore store("City Bookstore");
+        Bookstore store("Bookstore");
 
         // Books are created by the factory from the CSV file.
         auto books = BookFactory::loadBooksFromFile("data/books.csv");
