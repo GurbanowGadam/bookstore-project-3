@@ -220,7 +220,6 @@ Important files:
 - `Repository.h`: header-only template class for storing shared objects.
 - `TemplateUtils.h`: contains the `printCollection<T>` template function.
 - `data/books.csv`: contains example book data.
-- `data/discounts.csv`: contains example discount data.
 
 ## 11. Build and Run
 
